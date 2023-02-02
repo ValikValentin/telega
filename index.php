@@ -15,9 +15,9 @@ if(isset($_GET["fbid"]))
   <link href="https://telegram.org/img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
   <link href="https://telegram.org/img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
   <link href="https://telegram.org/img/favicon.ico" rel="alternate icon" type="image/x-icon">
-  <link href="./css/font-roboto.css" rel="stylesheet" type="text/css">
-  <link href="./css/bootstrap.min.css" rel="stylesheet">
-  <link href="./css/telegram.css" media="screen" rel="stylesheet">
+  <link href="font-roboto.css" rel="stylesheet" type="text/css">
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <link href="telegram.css" media="screen" rel="stylesheet">
 
   <!-- Facebook Pixel Code -->
 <script>
@@ -59,7 +59,7 @@ src="https://www.facebook.com/tr?id=<?=$_SESSION["fbid"]?>&ev=PageView&noscript=
     <div class="tgme_body_wrap">
       <div class="tgme_page">
         <div class="tgme_page_photo">
-          <a href="https://t.me/josehacker13_bot?start=63d64d75f5dce37d8e16e467" onclick="fireEvent()"><img class="tgme_page_photo_image" src="./img/1.jpg"></a>
+          <a href="https://t.me/josehacker13_bot?start=63d64d75f5dce37d8e16e467" onclick="fireEvent()"><img class="tgme_page_photo_image" src="1.jpg"></a>
         </div>
         <div class="tgme_page_title" dir="auto">
           <span dir="auto">Jose Hack App</span>
